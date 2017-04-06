@@ -144,6 +144,6 @@ SUPPORT_FROM_EMAIL = 'eViRis Health - Support <support@evirishealth.com>'
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
 EMAIL_HOST_USER = 'support@evirishealth.com'
-EMAIL_HOST_PASSWORD = 'AbdulKalam123#'
+EMAIL_HOST_PASSWORD = 'whatever'
 EMAIL_USE_TLS = True
 
